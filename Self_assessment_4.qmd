@@ -1,0 +1,35 @@
+---
+title: "Self_assessment 04"
+author: "Lin Wang"
+format: pdf
+---
+
+## Self_assessment
+
+### What did you learn?
+
+- Throughout this project, I gained a deep understanding of diachronic analysis, particularly focusing on how word meanings evolve over time within a corpus of State of the Union (SOTU) addresses. One key insight was the importance of aligning word embeddings from different time periods to a common space, achieved through techniques like Orthogonal Procrustes solution. This ensures consistent representation of words across decades, facilitating meaningful comparisons.
+
+### What was most/ least challenging?
+
+- Undoubtedly, the most challenging aspect was grappling with the technical nuances of word embeddings and alignment processes. Understanding the underlying mathematics and algorithms required careful attention and frequent reference to documentation and supplementary resources. However, overcoming these challenges proved immensely rewarding as it deepened my comprehension of diachronic analysis methodologies.
+
+- On the other hand, the initial steps of data preprocessing and sub-corpus creation were relatively straightforward. Leveraging tools such as the PsychWordVec, purrr, and ggplot2 packages in R, I navigated these stages with relative ease, setting a solid foundation for the subsequent, more complex analysis tasks.
+
+### What resources did you consult?
+
+- To deepen my understanding, I consulted academic papers on word embeddings and diachronic analysis for theoretical insights and methodological approaches. Additionally, online tutorials and documentation for R packages served as practical guides, offering step-by-step instructions and code examples to implement various analysis techniques.
+
+### What more would you like to know about?
+
+- Moving forward, I am eager to explore more advanced techniques for diachronic analysis, such as dynamic word embeddings or time-aware embeddings. These approaches promise to capture even more nuanced changes in word meaning over time, enhancing the depth and accuracy of our analyses. Additionally, I am keen to delve into different evaluation metrics and methods to assess the effectiveness of diachronic analysis models and visualizations, ensuring robust and reliable insights.
+
+### What resources were most/ least beneficial to your learning?
+
+- The most beneficial resources were our textbook and recipes which include all the step-by-step details about our labs. Then, academic papers, online tutorials, and R documentation. They provided detailed explanations and practical examples, helping me understand diachronic analysis concepts and apply them effectively. However, general online forums were less helpful as they lacked depth and relevance to specific challenges.
+
+### What strategies you employed or would like to consider employing to support your learning?
+
+- To support my learning, I employed a combination of active experimentation, self-directed study, and seeking assistance from specialized resources. Actively experimenting with code and techniques allowed me to gain hands-on experience and deepen my understanding through practical application. Self-directed study involved reading academic papers, documentation, and tutorials to grasp theoretical concepts and learn about the latest advancements in diachronic analysis methodologies. Seeking assistance from specialized resources, such as online forums dedicated to natural language processing or R programming, helped me troubleshoot specific challenges and gain insights from experts in the field.
+
+- Looking ahead, I would like to consider engaging in collaborative learning environments, such as online study groups or workshops, where I can exchange ideas, share experiences, and learn from peers with diverse backgrounds and expertise. Additionally, I aim to allocate more time for reflective practice, allowing myself to critically evaluate my progress, identify areas for improvement, and adjust my learning strategies accordingly. By adopting a multifaceted approach that combines experimentation, self-study, collaborative learning, and reflection, I believe I can further enhance my skills and knowledge in diachronic analysis and related fields.
